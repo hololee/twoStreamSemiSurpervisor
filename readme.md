@@ -1,4 +1,7 @@
-## Semi-supervised learning algorithm idea.
+## Semi-supervised learning algorithm idea.  
+Semi-supervised learning algorithm using two stream path.
+
+![idea scratch]()
 
 ~~~
 DA: labeled data , LA: label
