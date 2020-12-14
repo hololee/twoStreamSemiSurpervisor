@@ -1,3 +1,5 @@
+## Semi-supervised learning algorithm idea.
+
 ~~~
 DA: labeled data , LA: label
 DB:unlabeled data
@@ -27,4 +29,4 @@ streamA(3, 3) = streamA(3, 2).train(DB, streamB(3, 3).predict(DB))
 -----------------------------------------------------------------------
 ~~~
 
-가짜 데이터에 의한 학습에는 가중치를 적게 두는게 어떤지?
+- key01 : 가짜 데이터에 의한 학습에는 가중치를 적게 두는게 어떤지?
