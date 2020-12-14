@@ -1,7 +1,7 @@
 ## Semi-supervised learning algorithm idea.  
 Semi-supervised learning algorithm using two stream path.
 
-![idea scratch]()
+![idea scratch](https://github.com/hololee/twoStreamSemiSurpervisor/blob/master/scratch.jpg?raw=true)
 
 ~~~
 DA: labeled data , LA: label
